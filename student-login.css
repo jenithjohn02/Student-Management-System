@@ -1,0 +1,21 @@
+.login-card {
+    border-top: 8px solid #2ecc71;
+}
+
+.btn-login {
+    background: #2ecc71;
+    color: white;
+}
+
+.student-dash {
+    border-top: 8px solid #2ecc71;
+    text-align: left;
+}
+
+.profile-details p {
+    margin: 15px 0;
+    font-size: 1.1rem;
+    color: #444;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}

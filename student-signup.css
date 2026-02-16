@@ -1,0 +1,14 @@
+.signup-card {
+    border-top: 8px solid #27ae60;
+    max-width: 450px !important;
+}
+
+.btn-signup {
+    background: #27ae60;
+    color: white;
+    margin-top: 15px;
+}
+
+.btn-signup:hover {
+    background: #219150;
+}
